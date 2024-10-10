@@ -10,6 +10,7 @@ import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import { navItems } from "@/data";
 import { FaHome } from "react-icons/fa";
+import { Analytics } from "@vercel/analytics/react"
 
 
 
