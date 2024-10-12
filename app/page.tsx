@@ -28,6 +28,7 @@ export default function Home() {
       <Experience />
       <Approach />
       <Footer />
+      <Analytics/>
     </div>
   </main>
   );
