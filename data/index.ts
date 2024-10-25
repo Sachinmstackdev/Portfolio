@@ -72,19 +72,19 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "3D Soda Company website",
+      des: " This is a Next.js application that utilizes GSAP for animations, Three.js for 3D graphics, and Tailwind CSS for styling, all built with TypeScript.",
+      img: "/soda.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "#",
+      link: "https://fizzi-animation.vercel.app/",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
+      title: "EVE-AI Image Generation Web App",
+      des: "Effortlessly create and share AI-generated images based on your prompts.",
+      img: "/a3.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "#",
+      link: "https://eve-ai-image-genrator.vercel.app/",
     },
     {
       id: 3,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://iphone-website-seven-rust.vercel.app/",
+      link: "https://iphone-website-seven-rust.vercel.app/?vercelToolbarCode=zzQdZxPJiCNS4fy",
     },
   ];
   
@@ -210,7 +210,7 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      link: "https://github.com/Sachinmstackdev",
+      link: "https://github.com/SachinkumarMERN",
     },
     {
       id: 2,
