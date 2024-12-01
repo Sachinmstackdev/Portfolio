@@ -7,9 +7,26 @@ import GoogleAnalytics from '@/components/GoogleAnalytics'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sachin's Portfolio",
-  description: "Mordern & Minimalist JS Portfolio",
-};
+  title: 'Sachin Kumar - Web Developer & Digital Marketing Expert | Greater Noida',
+  description: 'Leading Web Developer and Digital Marketing Expert in Greater Noida and Gautam Buddha Nagar. Offering custom websites, ecommerce solutions, SEO services, graphic design, and video editing for local businesses.',
+  keywords: [
+    // ... existing keywords ...
+    'web developer Greater Noida',
+    'SEO expert Greater Noida',
+    'digital marketing Greater Noida',
+    'web development Gautam Buddha Nagar',
+    'SEO services Greater Noida',
+    'website designer Greater Noida',
+    'digital marketing agency Gautam Buddha Nagar',
+    'ecommerce website Greater Noida',
+    'local SEO Greater Noida',
+    'UP web developer',
+    'NCR digital marketing'
+  ],
+  alternates: {
+    canonical: 'https://www.devsachinkumar.com',
+  }
+}
 
 export default function RootLayout({
   children,

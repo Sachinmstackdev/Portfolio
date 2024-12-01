@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      title: "Boosting businesses through strategic SEO & digital marketing solutions",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I'm very flexible with time zone communications",
+      title: "Complete Digital Marketing Services",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -28,9 +28,9 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "My tech stack",
-      description: "I constantly try to improve",
-      className: "lg:col-span-2 md:col-span-3 md:row-span-2",
+      title: "Expert Services",
+      description: "Custom Websites & SEO",
+      className: "lg:col-span-2 md:col-span-3 md:row-span-2 whitespace-nowrap",
       imgClassName: "",
       titleClassName: "justify-center",
       img: "",
@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for development.",
+      title: "Local SEO Specialist in Greater Noida",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -49,8 +49,8 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
-      description: "The Inside Scoop",
+      title: "Custom online stores with SEO-optimized product listings",
+      description: "E‑commerce Store",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -59,7 +59,7 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Do you want to start a project together?",
+      title: "Ready to boost your online presence?",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
