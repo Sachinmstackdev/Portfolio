@@ -53,11 +53,12 @@ const Hero = () => {
           Hi! I&apos;m Sachin Kumar, SEO Specialist & Web Developer from Greater Noida
         </p>
 
-        <a href="#about">
+        <a href="/resume/DM Sachin kumar.pdf" download>
           <MagicButton
-              title="Show my work"
-              // icon={<FaLocationArrow />}
-              position="right" icon={undefined}          />
+              title="Download Resume"
+              position="right" 
+              icon={undefined}          
+          />
         </a>
       </div>
     </div>

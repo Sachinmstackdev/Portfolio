@@ -4,6 +4,9 @@ import { FaLocationArrow } from "react-icons/fa6";
 
 import { projects } from "@/data";
 import { PinContainer } from "./ui/3d-pin";
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
+import MagicButton from "./ui/MagicButton";
 
 const RecentProjects = () => {
   return (
@@ -72,7 +75,18 @@ const RecentProjects = () => {
           </div>
         ))}
       </div>
+
+      <div className="mt-10 flex justify-center gap-4">
+        <Link href="/works" className="w-fit">
+          <MagicButton
+            title="View My Works"
+            position="right"
+            icon={<ArrowRight />}
+          />
+        </Link>
+      </div>
     </div>
+    
   );
 };
 
